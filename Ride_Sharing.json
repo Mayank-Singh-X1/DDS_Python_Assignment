@@ -1,0 +1,17 @@
+[
+  {
+    "rider": "Alice",
+    "driver": "John",
+    "destination": "Airport"
+  },
+  {
+    "rider": "Bob",
+    "driver": "Mary",
+    "destination": "Downtown"
+  },
+  {
+    "rider": "Charlie",
+    "driver": "David",
+    "destination": "University"
+  }
+]
