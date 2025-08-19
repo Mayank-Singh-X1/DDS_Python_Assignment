@@ -1,0 +1,10 @@
+{
+  "currently_parked": [
+    "KA-05-MJ-1234",
+    "DL-09-XY-4567"
+  ],
+  "exited_cars": [
+    "MH-12-AB-7890",
+    "TN-10-ZQ-1111"
+  ]
+}
