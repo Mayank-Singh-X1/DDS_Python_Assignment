@@ -1,0 +1,22 @@
+[
+  {
+    "t_type": "Income",
+    "desc": "Salary",
+    "amount": 5000
+  },
+  {
+    "t_type": "Expense",
+    "desc": "Groceries",
+    "amount": 120.5
+  },
+  {
+    "t_type": "Expense",
+    "desc": "Electricity Bill",
+    "amount": 85.75
+  },
+  {
+    "t_type": "Expense",
+    "desc": "Laptop Purchase",
+    "amount": 950
+  }
+]
